@@ -1,0 +1,19 @@
+*{
+    font-size: 30px;
+    font-weight: 500;
+}
+h3{
+   color: darkgreen;
+}
+h4{
+    color: blueviolet;
+}
+.a{
+    color: palevioletred;
+}
+#b{
+    color: darkorange;
+}
+h5,p{
+    color: darkturquoise;
+}
